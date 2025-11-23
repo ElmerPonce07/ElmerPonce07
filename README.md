@@ -19,6 +19,10 @@
   java · spring boot · python · typescript · react · next.js · tailwind · postgres · firebase · aws · git
 </p>
 
+<p>
+  Fun Fact : I love Soccer , Music, Movies , and an unhealthy amount of coffee intake.
+</p>
+
 <br/>
 
 <h3>connect with me</h3>
