@@ -28,6 +28,3 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmerponce07&show_icons=true&layout=compact&theme=default" height="150"/>
-</p>
