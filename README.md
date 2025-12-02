@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  Fun Fact : I love Soccer , Music, Movies , and an unhealthy amount of coffee intake.
+  Fun Fact : I love Soccer (Real Madrid) , Music (Oasis & Gorillaz) , Movies , and an unhealthy amount of coffee intake.
 </p>
 
 <br/>
